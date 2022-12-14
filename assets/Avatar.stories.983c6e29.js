@@ -1,0 +1,2 @@
+import{A as t}from"./index.b3c6de99.js";import"./index.2aa33357.js";import"./iframe.2620f942.js";import"./index.6a500772.js";import"./jsx-runtime.56b8570f.js";const m={title:"Data display/Avatar",component:t,args:{src:"https://github.com/leobonfimm.png",alt:"Leonardo Bonfim"},argTypes:{src:{control:{type:"text"}}}},p={},c={args:{src:void 0}},e=["Primary","WithFallback"];export{p as Primary,c as WithFallback,e as __namedExportsOrder,m as default};
+//# sourceMappingURL=Avatar.stories.983c6e29.js.map
